@@ -8,8 +8,18 @@ Shield by shield
 Side by side
 We're marching into destiny
 
+<<<<<<< HEAD
 March as one
 Don't look back
 Oden's sons
 Attack!
 iiii
+=======
+<<<<<<< HEAD
+ttttggt
+=======
+hhbbhhfjcgcjc
+hfyufygigyu
+jhjnjnknjnj
+>>>>>>> 68e903f0aac5448275efe39cecc19584e25af52e
+>>>>>>> 1bb56c844baaf57b270b023aa6bc0e18626b5096
