@@ -8,4 +8,10 @@ Shield by shield
 Side by side
 We're marching into destiny
 
+<<<<<<< HEAD
 ttttggt
+=======
+hhbbhhfjcgcjc
+hfyufygigyu
+jhjnjnknjnj
+>>>>>>> 68e903f0aac5448275efe39cecc19584e25af52e
